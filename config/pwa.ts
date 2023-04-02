@@ -9,8 +9,8 @@ export const pwa: ModuleOptions = {
   manifest: {
     id: scope,
     scope,
-    name: "AI Anything",
-    short_name: "AIAnything",
+    name: "仅限技术验证使用",
+    short_name: "演示Demo",
     theme_color: "#ffffff",
     icons: [
       {
