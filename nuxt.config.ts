@@ -88,4 +88,7 @@ export default defineNuxtConfig({
       ignore: ["/ai-*"],
     },
   },
+  auth: { 
+    origin: 'https://rayxdemo.netlify.app' 
+  },
 });
